@@ -12,12 +12,12 @@ thalach, exang, oldpeak, slope, ca, thal). Target: `target` (0/1).
 <paste link>
 
 ## d. Models Used
-| ML Model Name      | Accuracy | AUC | Precision | Recall | F1 | MCC |
-Logistic Regression	     0.8026	0.8927	0.8250	0.8049	0.8148	0.6038
-Decision Tree	           0.7368	0.7958	0.7692	0.7317	0.7500	0.4732
-KNN	                     0.8289	0.8847	0.8182	0.8780	0.8471	0.6557
-Naive Bayes	             0.8026	0.8794	0.8095	0.8293	0.8193	0.6022
-Support Vector Machine	 0.7895	0.8760	0.7778	0.8537	0.8140	0.5760
+| ML Model Name      | Accuracy | AUC | Precision | Recall | F1 | MCC | <br>
+Logistic Regression	     0.8026	0.8927	0.8250	0.8049	0.8148	0.6038 <br>
+Decision Tree	           0.7368	0.7958	0.7692	0.7317	0.7500	0.4732 <br>
+KNN	                     0.8289	0.8847	0.8182	0.8780	0.8471	0.6557 <br>
+Naive Bayes	             0.8026	0.8794	0.8095	0.8293	0.8193	0.6022 <br>
+Support Vector Machine	 0.7895	0.8760	0.7778	0.8537	0.8140	0.5760 <br>
 
 
 ## Observations
