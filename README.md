@@ -10,6 +10,7 @@ thalach, exang, oldpeak, slope, ca, thal). Target: `target` (0/1).
 
 ## c. GitHub Repository Link
 https://github.com/2026aj05657-cmd/ml-assignment-2/
+https://ml-assignment-2-2ccwrmpl6lpjvqfblouccv.streamlit.app/
 
 ## d. Models Used
 | ML Model Name      | Accuracy | AUC | Precision | Recall | F1 | MCC | <br>
