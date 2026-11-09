@@ -9,7 +9,7 @@ Rows: ___ (after removing duplicates). Features: 13 (age, sex, cp, trestbps, cho
 thalach, exang, oldpeak, slope, ca, thal). Target: `target` (0/1).
 
 ## c. GitHub Repository Link
-<paste link>
+https://github.com/2026aj05657-cmd/ml-assignment-2/
 
 ## d. Models Used
 | ML Model Name      | Accuracy | AUC | Precision | Recall | F1 | MCC | <br>
